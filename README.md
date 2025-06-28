@@ -1,5 +1,4 @@
-## Hi there 👋
-
+[![Top Langs](https://private-languages.vercel.app/api/top-langs/?username=angelazqian&layout=compact&hide=SCSS,Yacc&card_width=400&theme=transparent&langs_count=8)](https://github.com/angelazqian/github-readme-stats)
 <!--
 **angelazqian/angelazqian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
